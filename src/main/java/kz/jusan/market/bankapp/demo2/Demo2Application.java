@@ -60,7 +60,7 @@ public class Demo2Application implements CommandLineRunner {
 		}
 	}
 	public static void printHelp() {
-		System.out.println("Welcome to CLI bank serviceEnter operation number:\n" +
+		System.out.println("Welcome to CLI Bank service! Enter operation number:\n" +
 				"1 - show accounts\n" +
 				"2 - create account\n" +
 				"3 - deposit\n" +
